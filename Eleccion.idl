@@ -1,0 +1,12 @@
+module Eleccion {
+interface Node
+{
+	void register(in Node nodo);
+	void removeNode(in Node nodo);
+	void message(in string msg);
+	void send(in long v);
+	void election();
+	long getLeader();
+};
+
+};

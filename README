@@ -1,0 +1,8 @@
+Java implementation of the Peterson algorithm for leader election
+
+This Java code uses CORBA for the multi client simulation
+
+Instructions:
+1. run make.bat
+2. run RunServer.bat RunServer1.bat RunServer2.bat RunServer3.bat
+3. run Client.bat
